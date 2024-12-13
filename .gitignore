@@ -1,0 +1,7 @@
+node_modules
+base.iso
+package-lock.json
+src/custom*
+src/partition*
+src/source*
+.#custom-root.lck
